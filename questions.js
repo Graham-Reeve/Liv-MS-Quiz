@@ -1,12 +1,12 @@
 window.QUIZ_QUESTIONS = [
   {
     prompt: "100 is 150% of which of these numbers?",
-    help: "Type 1, 2, 3 or 4.
+    help: `Type 1, 2, 3 or 4.
 
 (1) 75
 (2) 50
 (3) 150
-(4) None of the above",
+(4) None of the above`,
     answer: 4
   },
   {
@@ -23,12 +23,12 @@ window.QUIZ_QUESTIONS = [
   },
   {
     prompt: "Which of these numbers is the largest?",
-    help: "Type 1, 2, 3 or 4.
+    help: `Type 1, 2, 3 or 4.
 
 (1) 400 to the power 55
 (2) 500 to the power 50
 (3) 1000 to the power 30
-(4) 20 to the power 100",
+(4) 20 to the power 100`,
     answer: 1
   },
   {
