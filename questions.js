@@ -82,8 +82,7 @@ window.QUIZ_QUESTIONS = [
     answer: 75
   },
   {
-    prompt: "I think of a number, add two and square the result. Then I take away four times the number I first thought of. The answer is 53. What number did I think of?",
-    help: "The number was negative.",
+    prompt: "I think of a number, add two and square the result. Then I take away four times the number I first thought of. The answer is 53. What number did I think of? [By the way, the number was negative.]",
     answer: -7
   },
   {
