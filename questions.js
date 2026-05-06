@@ -66,8 +66,8 @@ window.QUIZ_QUESTIONS = [
     answer: 15
   },
   {
-    prompt: "The lamp posts in a road are equally spaced, and the distance between the first and the eleventh is 400 metres. How far are the posts apart in metres?",
-    answer: 40
+    prompt: "A row of equally spaced lamp posts stretches along a road. The distance from the first lamp to the tenth lamp is 100 metres. A cyclist passes the third lamp and then travels 50 metres further. Which numbered lamp is she closest to? (Type 0 if there is no single closest lamp.)?",
+    answer: 0
   },
   {
     prompt: "Two 2p coins lie flat on a table, heads up and touching. One of them stays fixed while the other, keeping flat on the table, rolls once right round the fixed coin. How many times does the head go round?",
