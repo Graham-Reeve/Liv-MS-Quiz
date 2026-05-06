@@ -66,7 +66,7 @@ window.QUIZ_QUESTIONS = [
     answer: 15
   },
   {
-    prompt: "A row of equally spaced lamp posts stretches along a road. The distance from the first lamp to the tenth lamp is 100 metres. A cyclist is level with the third lamp and then travels 50 metres further along the road. Which numbered lamp is she closest to? Type 0 if there is no single closest lamp.",
+    prompt: "A row of equally spaced lamp posts stretches along a road. The distance from the first lamp to the tenth lamp is 100 metres. A cyclist is level with the third lamp and then travels 50 metres further along the road. Which numbered lamp is she closest to? [Type 0 if there is no single closest lamp].",
     answer: 0
   },
   {
