@@ -41,8 +41,8 @@ window.QUIZ_QUESTIONS = [
     answer: 19
   },
   {
-    prompt: "What is the units digit of 11 to the power 27?",
-    answer: 1
+  prompt: "What is the largest possible number of regions into which a flat circular pizza can be divided by 5 straight cuts across the top?",
+  answer: 16
   },
   {
     prompt: "What is one-million-and-one cubed?",
